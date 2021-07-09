@@ -1,0 +1,13 @@
+.header {
+    margin: 2rem;
+}
+
+.title {
+    width: fit-content;
+    margin: auto auto 2rem;
+}
+
+.searchBox {
+    width: fit-content;
+    margin: auto;
+}
